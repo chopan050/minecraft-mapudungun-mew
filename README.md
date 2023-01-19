@@ -2,6 +2,7 @@
 
 Mari mari!
 Este proyecto está diseñado para Minecraft 1.19 y 1.19.2.
+(OJO: ¡LA TRADUCCIÓN SIGUE EN PROGRESO!)
 
 ## Descargar y usar
 
