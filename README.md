@@ -13,6 +13,8 @@ Busca dónde se encuentra la carpeta de Minecraft (en Windows puedes presionar W
 
 ¡Y listo! Ahora puedes abrir Minecraft 1.19 o 1.19.2, ir a Opciones -> Paquetes de recursos y seleccionar este paquete.
 
+Una vez que actives este paquete, anda a Opciones -> Idioma y busca entre los primeros idiomas en la lista. El mapudungun debería ser el tercero en la lista.
+
 ## Colaborar
 
 La traducción está alojada en assets/minecraft/lang/arn_cl.json. Ahí se encuentran todos los strings que hay que traducir. Como referencia, se puede consultar la versión original en inglés de todos los strings en el archivo de al lado, en_us.json.
