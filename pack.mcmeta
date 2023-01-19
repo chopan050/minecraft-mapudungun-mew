@@ -1,0 +1,13 @@
+{
+	"pack": {
+		"pack_format": 9,
+		"description": "Minecraft... welu mapudungun mew"
+	},
+	"language": {
+		"arn_cl": {
+			"name": "Mapudungun",
+			"region": "Wallmapu",
+			"bidirectional": false
+		}
+	}
+}
