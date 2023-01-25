@@ -47,7 +47,7 @@ La llave, "narrator.button.language", es una propiedad que lee Minecraft interna
 
 **Haz esto mismo con todas las líneas que sepas traducir en arn_cl.json. ¡Así es cómo traducimos Minecraft al mapudungun!**
 
-...bueno, casi. Hay un detalle: en realidad no podemos poner "Kewün" en arn_cl.json, porque no podemos poner directamente la letra "ü" en el archivo. Si hacemos eso, Minecraft lo leerá mal y mostrará cualquier cosa en pantalla. En vez de poner ü, debesmos \u00fc. Aquí, \u indica que ingresaremos un carácter Unicode. En este caso, ingresamos el carácter cuyo número Unicode es 00fc, el cual corresponde a ü. Por lo tanto, lo correcto sería poner:
+...bueno, casi. Hay un detalle: en realidad no podemos poner "Kewün" en arn_cl.json, porque no podemos poner directamente la letra "ü" en el archivo. Si hacemos eso, Minecraft lo leerá mal y mostrará cualquier cosa en pantalla. En vez de poner ü, debemos poner \u00fc. Aquí, \u indica que ingresaremos un carácter Unicode. En este caso, ingresamos el carácter cuyo número Unicode es 00fc, el cual corresponde a ü. Por lo tanto, lo correcto sería poner:
 ```json
 "narrator.button.language": "Kew\u00fcn",
 ```
